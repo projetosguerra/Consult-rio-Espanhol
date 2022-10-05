@@ -1,2 +1,2 @@
 # Consultorio-Espanhol
-https://projetosguerra.github.io/Consult-rio-Espanhol/
+https://projetosguerra.github.io/Consultorio-Espanhol/
