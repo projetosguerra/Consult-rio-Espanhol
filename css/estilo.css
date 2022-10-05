@@ -175,7 +175,7 @@ button.slick-next {
 }
 
 li.slick-active button {
-    background: #00bac6;
+    background: #e2017b;
 }
 
 .slick-dots li {
@@ -252,4 +252,96 @@ li.slick-active button {
 .footer-2 p {
     padding: 10px;
     text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+label{
+    color: #FFFFFF;
+}
+
+.row{
+    padding: 1%;
+}
+
+.submit{
+    color: #FFFFFF;
+    background-color: #000000;
+    border-color: #FFFFFF;
+}
+
+form{
+    box-sizing: border-box;
+}  
+
+.form{
+    border-radius: 9px;
+    background-color: #f2f2f2;
+    padding: 3%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+    color: #714992;
+    font-size: 1em;
+    font-weight: bolder;
+}
+
+input[type=text], input[type=tel], input[type=email], select, textarea {
+    width: 90%;
+    padding: 12px;
+    border: 1px solid #e2017b;
+    border-radius: 6px;
+    resize: vertical;
+    background-color: #fff;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    background-color: #714992;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+    margin-top: 4%;
+}
+
+input[type=submit]:hover {
+    background-color: #e2017b;
+    color: #fff;
+    border-color: #714992;
+}
+
+.col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+
+.col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.container h1 {
+    text-align: center;
+    font-size: 3em;
+    margin-top: 10%;
 }
