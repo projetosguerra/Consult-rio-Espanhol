@@ -252,6 +252,8 @@ li.slick-active button {
 .footer-2 p {
     padding: 10px;
     text-align: center;
+    padding-top: 1%;
+    font-size: 1.3em;
 }
 
 a {
@@ -343,5 +345,5 @@ input[type=submit]:hover {
 .container h1 {
     text-align: center;
     font-size: 3em;
-    margin-top: 10%;
+    margin-top: 8%;
 }
